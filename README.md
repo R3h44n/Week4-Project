@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## API KEY Guide
 
-Make sure to add api keys before starting the project
+Make sure to add api keys before starting the project. If you wanna know which api key to choose, make sure to check the .env_sample file to find the right api keys
